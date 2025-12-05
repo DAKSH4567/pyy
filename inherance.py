@@ -12,3 +12,4 @@ a = Employee('Rahul', 886012, 200000, "Intern")
 
 # calling a function of the class Person using its instance
 a.display()
+  # .
